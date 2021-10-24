@@ -1,0 +1,1 @@
+Combined text is: this text is in first.txt, this text is in second.txtCombined text is: this text is in first.txt, this text is in second.txt
